@@ -1,2 +1,2 @@
 # tvTurk
-Turkish TV Everywhere
+Live TV Streaming Everywhere
