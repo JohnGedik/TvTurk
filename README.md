@@ -1,5 +1,5 @@
 # TvTurk
-Live TV Streaming Everywhere - m3u8 streaming. Written in bright script. 
+Live TV Streaming Everywhere - m3u8 streaming using Amazon AWS. Written in bright script. 
 
 Todo List:
 1) Support for YouTube channels.
